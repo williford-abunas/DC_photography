@@ -1,5 +1,5 @@
-import { NavMobile } from "./nav-mobile";
-import { NavDesktop } from "./nav-desktop";
+import { NavMobile } from './nav-mobile'
+import { NavDesktop } from './nav-desktop'
 
 export const Topbar = () => {
   return (
@@ -10,5 +10,5 @@ export const Topbar = () => {
         <NavDesktop />
       </nav>
     </div>
-  );
-};
+  )
+}
