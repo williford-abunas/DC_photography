@@ -35,7 +35,7 @@ export const NavMobile = () => {
                     href={route.href}
                     onClick={() => setIsOpen((prev) => !prev)}
                   >
-                    <p className="flex gap-1 text-xl mx-auto font-dancing">
+                    <p className="flex gap-1 text-md mx-auto font-dancing">
                       {route.title}
                     </p>
                   </a>
