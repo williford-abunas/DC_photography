@@ -12,11 +12,11 @@ export const routes = [
     href: '#',
   },
   {
-    title: 'CONTACT',
+    title: 'PRICING',
     href: '#',
   },
   {
-    title: 'PRICING',
+    title: 'CONTACT',
     href: '#',
   },
 ]
