@@ -11,13 +11,13 @@ export const Banner = () => {
       <div className="relative min-h-screen flex justify-center p-5 items-center">
         <Topbar />
         <div className="space-y-5 text-center gap-5">
-          <h1 className="lg:text-5xl text-2xl  font-dancing text-[#fff1f2] drop-shadow-2xl font-bold">
+          <h1 className="lg:text-5xl text-2xl  font-dancing text-[#c6ff0a] drop-shadow-2xl font-bold pb-4">
             Affordable, Quality Photos <br />
             <span>Capturing Moments,</span>
             <br />
             <span>Creating Memories</span>
           </h1>
-          <hr className="w-48 h-1 mx-auto my-8 bg-gray-100 border-0 rounded md:my-12 dark:bg-gray-700"></hr>
+          <hr className="w-48 h-1 mx-auto my-12 bg-gray-100 border-0 rounded md:my-14 dark:bg-gray-700"></hr>
         </div>
       </div>
     </>
